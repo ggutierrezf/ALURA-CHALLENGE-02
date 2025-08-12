@@ -1,0 +1,61 @@
+Churn: ['No' 'Yes']
+Partner: ['Yes' 'No']
+Dependents: ['Yes' 'No']
+PhoneService: ['Yes' 'No']
+PaperlessBilling: ['Yes' 'No']
+1= Yes
+0= No
+
+...............................................................
+gender: ['Female' 'Male']
+1= Male
+0= Female
+
+
+...............................................................
+MultipleLines: ['No' 'Yes' 'No phone service']
+1= Yes
+2= No
+3= No phone service
+
+...............................................................
+InternetService: ['DSL' 'Fiber optic' 'No']
+1= DSL
+2= Fiber optic
+3= No
+
+
+...............................................................
+OnlineSecurity: ['No' 'Yes' 'No internet service']
+OnlineBackup: ['Yes' 'No' 'No internet service']
+DeviceProtection: ['No' 'Yes' 'No internet service']
+TechSupport: ['Yes' 'No' 'No internet service']
+StreamingTV: ['Yes' 'No' 'No internet service']
+StreamingMovies: ['No' 'Yes' 'No internet service']
+1= Yes
+2= No
+3= No internet service
+
+
+...............................................................
+Contract: ['One year' 'Month-to-month' 'Two year']
+1= One year
+2= Month-to-month
+3= Two year
+
+
+...............................................................
+PaymentMethod: ['Mailed check' 'Electronic check' 'Credit card (automatic)'
+ 'Bank transfer (automatic)']
+1= Mailed check
+2= Electronic check
+3= Credit card (automatic)
+4= Bank transfer (automatic)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+separar el campo MultipleLines en tres, MultipleLines Si con los valores Yes, MultipleLines No con los valores No y MultipleLines No Phone Serv con los valores No phone service
+
+
+
+
